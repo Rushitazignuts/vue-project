@@ -1,0 +1,186 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "ruchita",
+      "email": "test@gmail.com",
+      "password": "abc@123"
+    },
+    {
+      "id": 2,
+      "name": "drasti",
+      "email": "dm@gmail.com",
+      "password": "dra@345"
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 3
+    },
+    {
+      "name": "",
+      "email": "zignutsmember@yopmail.com",
+      "password": "Member@123",
+      "id": 4
+    },
+    {
+      "name": "",
+      "email": "zignutsmember@yopmail.com",
+      "password": "Member@123",
+      "id": 5
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 6
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 7
+    },
+    {
+      "name": "",
+      "email": "zignutsmember@yopmail.com",
+      "password": "Member@123",
+      "id": 8
+    },
+    {
+      "name": "",
+      "email": "zignutsmember@yopmail.com",
+      "password": "Member@123",
+      "id": 9
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 10
+    },
+    {
+      "name": "",
+      "email": "zignutsmember@yopmail.com",
+      "password": "Member@123",
+      "id": 11
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 12
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 13
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 14
+    },
+    {
+      "name": "",
+      "email": "zignutsmember@yopmail.com",
+      "password": "Member@123",
+      "id": 15
+    },
+    {
+      "name": "a",
+      "email": "a",
+      "password": "a",
+      "id": 16
+    },
+    {
+      "name": "",
+      "email": "ds",
+      "password": "a",
+      "id": 17
+    },
+    {
+      "name": "hello",
+      "email": "hello@gmail.com",
+      "password": "Ruchi@123",
+      "id": 18
+    },
+    {
+      "name": "testing",
+      "email": "testing@gmail.com",
+      "password": "Test@123",
+      "id": 19
+    }
+  ],
+  "restaurant": [
+    {
+      "name": "starr",
+      "contact": "4444dc",
+      "address": "rfvgf",
+      "id": 3
+    },
+    {
+      "name": "s",
+      "contact": "sss",
+      "address": "s",
+      "id": 4
+    },
+    {
+      "name": "cafe",
+      "contact": "1111",
+      "address": "swdcxfe",
+      "id": 5
+    },
+    {
+      "name": "a",
+      "contact": "1111",
+      "address": "wzw",
+      "id": 6
+    },
+    {
+      "name": "ssf",
+      "contact": "defcx",
+      "address": "frfgfr",
+      "id": 7
+    },
+    {
+      "name": "frgvr",
+      "contact": "crgrtg",
+      "address": "r5fbft",
+      "id": 8
+    },
+    {
+      "name": "fbfgbfg",
+      "contact": "456457y ",
+      "address": "gybhg",
+      "id": 9
+    },
+    {
+      "name": "tgbgty",
+      "contact": "tgybtg",
+      "address": "tvgbhty",
+      "id": 10
+    },
+    {
+      "name": "tgbgt",
+      "contact": "576876",
+      "address": "u8 hgjhg ",
+      "id": 11
+    },
+    {
+      "name": "u8iu",
+      "contact": "657676y ",
+      "address": "yht ",
+      "id": 12
+    },
+    {
+      "name": "hjguyjhyuj ",
+      "contact": " 8yu8678u7",
+      "address": "jk hj ",
+      "id": 13
+    }
+  ]
+}
